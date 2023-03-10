@@ -2,6 +2,13 @@
 
 ## Project/Goals
 (fill in your description and goals here)
+  
+  Not be a complete mess
+  
+  [Link to google](www.google.com)    
+  
+
+
 
 ## Process
 ### (your step 1)
